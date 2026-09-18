@@ -1,0 +1,22 @@
+STUDYMATE PRO - START HERE
+
+1. Install JDK 17 or 21.
+2. Open this folder in VS Code or Eclipse.
+3. Run: src/com/studymate/Main.java
+4. StudyMate opens directly on the Dashboard.
+
+FINAL PROJECT CONTENTS
+- Java Swing source code
+- Local persistent storage (no MySQL/SQL/JDBC)
+- Dynamic dashboard and analytics
+- Real in-app reminders while the application is running
+- GitHub-style yearly habit activity heatmap
+- Input validation and error handling
+- Dependency-free self-tests
+- Architecture / UML / workflow diagrams
+- Screenshots
+- VITyarthi-oriented compliance documentation
+
+
+
+For a faculty demo, use docs/DEMO_CHECKLIST.md.
